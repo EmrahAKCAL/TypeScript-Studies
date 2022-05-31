@@ -10,6 +10,7 @@
   <li>TypeScript'te yazılan kod, yürütme amacıyla JavaScript'e derlenir. </li>
   <li>TypeScript dosyaları <b><i>.ts</i></b> uzantılıdır.</li>
   <li>TypeScript, JavaScript'in bir üst kümesi olduğundan, geçerli herhangi bir .js dosyası .ts olarak yeniden adlandırılabilir ve diğer TypeScript dosyalarıyla derlenebilir. </li>
+  <li>TypeScript, geleneksel JavaScript'in tüm özelliklerine sahiptir, ancak bazı yeni özellikler ekler.</li>
   <li>TypeScript taşınabilirdir, yani JavaScript'in çalıştığı herhangi bir ortamda çalışabilir. </li>
   <li>TypeScript, isteğe bağlı statik yazma sağlar. JavaScript dinamik olarak yazılmıştır. Bu, JavaScript'in, çalışma zamanında fiilen başlatılıncaya kadar bir değişkenin ne tür olduğunu bilmediği anlamına gelir. Bu aynı zamanda çok geç olabileceği anlamına da gelir. TypeScript, JavaScript'e tür desteği ekler. TypeScript, tür çıkarımının kullanılmasıyla yazmayı biraz daha kolay ve çok daha az açık hale getirir. </li>
   <li>TypeScript, sınıflar, nesne, arayüzler ve kalıtım gibi Nesne Yönelimli Programlama kavramlarını destekler. </li>
